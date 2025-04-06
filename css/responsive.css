@@ -15,6 +15,7 @@
     }
 
     .hero-site .txt-hero p{
+        max-width: 450px;
         font-size: 14px;
     }
 
@@ -29,10 +30,16 @@
     /* Responsivo das vantagens */
     .vantagens .itens-container{
         flex-direction: column;
+        margin: auto;
+        width: 80%;
     }
 
     .vantagens .itens-container .img-itens img{
         width: 100%;
+    }
+
+    .vantagens .itens-container .txt-itens h3{
+        margin-top: 20px;
     }
 
     .vantagens .itens-container .txt-itens p{
@@ -51,7 +58,8 @@
     /* Estilo dos botões de contato */
     .txt-contato, .icons-contato{
         display: block;
-        width: 100%;
+        margin: 0 auto;
+        width: 60%;
     }
 
     .contato .txt-contato h3{
@@ -80,7 +88,8 @@
     /* Estilo da sesssão como funciona */
     .txt-funciona, .instrucoes{
         display: block;
-        width: 100%;
+        margin: 0 auto;
+        width: 70%;
     }
 
     .como-funciona .txt-funciona{
@@ -110,5 +119,22 @@
 
     footer .bottom-footer p{
         font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 780px){
+    /* Responsivo das vantagens */
+    .vantagens .itens-container{
+        width: 100%;
+    }
+
+    /* Estilo dos botões de contato */
+    .txt-contato, .icons-contato{
+        width: 100%;
+    }
+
+    /* Estilo da sesssão como funciona */
+    .txt-funciona, .instrucoes{
+        width: 100%;
     }
 }
