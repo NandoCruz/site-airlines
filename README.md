@@ -27,7 +27,7 @@
 ##
 ![Tela6](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela6.png)
 
- ![AssinaturaOnLine](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/AssinaturaOnLine.png)
+![AssinaturaOnLine](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/AssinaturaOnLine.png)
 
 ## Siga-me nas redes sociais
 <div>
