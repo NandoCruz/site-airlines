@@ -3,23 +3,23 @@
 
 ### Caso queira assistir esta aula é só [clicar aqui!](https://www.youtube.com/watch?v=_Ufkj-zP5uY&list=PLaLQ4gJXUd6DIULwr0hPbfhsWh4zY1EPo&index=1)
 
-## Na tela inicial, um texto para chamar a atenção do cliente com uma imagem aérea da asa de um avição.
+### Esta é a tela inicial, onde o menu inicia com seu fundo transparente e seu conteúdo com algumas animações e no corpo desta tela, um texto para chamar a atenção do cliente com uma imagem aérea deslumbrante da asa de uma aeronave com o céu azul e um mar de nuvens abaixo da asa.
 ##
 ![Tela1](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela1.png)
 
-## Na próxima tela, o menu sai do modo transparente e fica com o fundo branco e o contaúdo preto, nesta página as imagens alternam com seus textos.
+### Na próxima tela, o menu sai do modo transparente e fica com o fundo branco e com seu conteúdo em preto, nesta página, as imagens alternam com seus textos fornecendo níveis de visualização e leitura.
 ##
 ![Tela2](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela2.png)
 
-## Nesta tela, o cliente já pode entrar em contato com a companhia aérea através de sua equipe. Logo abaixo uma imagem fixa.
+### Nesta tela, o cliente já pode entrar em contato com a equipe da companhia aérea através dos botões do WhatsApp, e-mail, ligação ou formulário. Logo abaixo uma imagem fixa surge durante a rolagem.
 ##
 ![Tela3](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela3.png)
 
-## Nesa tela, uma imagem linda fixa no fundo com o conteúdo da página flutuando por cima da imagem. Ondo clicando no botão será direcionado para um site de hoteis.
+### Nesa tela, uma linda imagem foi inserida ao fundo da tela e o conteúdo desta página surge flutuando sobre imagem. Caso o cliente clique no botão, ele será direcionado para um site de hoteis.
 ##
 ![Tela4](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela4.png)
 
-## Em seguida, a tela como funciona? Seu texto e três caixas explicando os direcionamentos. Onde o título fica móvel alinhando-se as caixas de texto.
+## Em seguida, na tela "Como funciona?" tem seu texto e três caixas explicando os direcionamentos ao cliente. Onde o título inicia fixo ao top alinhando-se a primeira caixa de texto em seguida ele fica móvel, movimentando-se entre as caixas de texto até alinhar-se pela base com última caixa de texto, ficando fixo novamente e subindo junto com o restante das caixas.
 ##
 ![Tela5](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela5.png)
 
