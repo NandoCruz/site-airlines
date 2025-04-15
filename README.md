@@ -15,7 +15,7 @@
 ##
 ![Tela3](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela3.png)
 
-## Nesa leta, uma imagem linda fixa no fundo com o conteúdo da página flutuando por cima da imagem. Ondo clicando no botão será direcionado para um site de hoteis.
+## Nesa tela, uma imagem linda fixa no fundo com o conteúdo da página flutuando por cima da imagem. Ondo clicando no botão será direcionado para um site de hoteis.
 ##
 ![Tela4](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela4.png)
 
