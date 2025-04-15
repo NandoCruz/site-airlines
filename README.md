@@ -15,15 +15,15 @@
 ##
 ![Tela3](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela3.png)
 
-### Nesa tela, uma linda imagem foi inserida ao fundo da tela e o conteúdo desta página surge flutuando sobre imagem. Caso o cliente clique no botão, ele será direcionado para um site de hoteis.
+### Uma linda imagem foi inserida ao fundo desta tela e o conteúdo dela surge flutuando sobre imagem. Caso o cliente clique no botão, ele será direcionado para um site de hotéis.
 ##
 ![Tela4](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela4.png)
 
-## Em seguida, na tela "Como funciona?" tem seu texto e três caixas explicando os direcionamentos ao cliente. Onde o título inicia fixo ao top alinhando-se a primeira caixa de texto em seguida ele fica móvel, movimentando-se entre as caixas de texto até alinhar-se pela base com última caixa de texto, ficando fixo novamente e subindo junto com o restante das caixas.
+### Em seguida, na tela "Como funciona?" tem seu texto e três caixas explicando os direcionamentos ao cliente. Onde o título inicia fixo ao top alinhando-se a primeira caixa de texto em seguida ele fica móvel, movimentando-se entre as caixas de texto até alinhar-se pela base com última caixa de texto, ficando fixo novamente e subindo junto com o restante das caixas.
 ##
 ![Tela5](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela5.png)
 
-## No final, o cliente pode entrar em contato com a companhia aérea através de seus contatos.
+### No final, o cliente pode entrar em contato com a companhia aérea através de seus contatos.
 ##
 ![Tela6](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela6.png)
 
