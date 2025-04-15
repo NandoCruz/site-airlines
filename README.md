@@ -19,11 +19,11 @@
 ##
 ![Tela4](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela4.png)
 
-### Em seguida, na tela "Como funciona?" tem seu texto e três caixas explicando os direcionamentos ao cliente. Onde o título inicia fixo ao top alinhando-se a primeira caixa de texto em seguida ele fica móvel, movimentando-se entre as caixas de texto até alinhar-se pela base com última caixa de texto, ficando fixo novamente e subindo junto com o restante das caixas.
+### Na tela "Como funciona?", seu título e as três caixas explicando os direcionamentos ao cliente se alinham de forma muito agradável. Onde o título inicia fixo ao top alinhando-se a primeira caixa de texto em seguida ele fica móvel, movimentando-se entre as caixas de texto até alinhar-se pela base com última caixa de texto, ficando fixo novamente e subindo junto com o restante das caixas.
 ##
 ![Tela5](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela5.png)
 
-### No final, o cliente pode entrar em contato com a companhia aérea através de seus contatos.
+### Ao final, o cliente pode entrar em contato com a companhia aérea através de seus contatos, redes sociais e links de suporte, informações e marketing.
 ##
 ![Tela6](https://github.com/NandoCruz/site-airlines/blob/main/imagens/airlines-tela6.png)
 
